@@ -1,4 +1,6 @@
 class User < ApplicationRecord
+
+  has_many :posts
   validates :user_name, uniqueness: true, length: { in: 6..15 }
   validate  :username_cant_be_nil
   
