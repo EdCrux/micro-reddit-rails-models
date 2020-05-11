@@ -1,8 +1,4 @@
-require './lib/user_helper.rb'
-
 class User < ApplicationRecord
-  include UserHelper
-
   has_many :posts
   has_many :comments
   validates :user_name, uniqueness: true, presence: true, length: { in: 6..15 }
