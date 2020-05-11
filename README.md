@@ -135,5 +135,5 @@ See the [open issues](https://github.com/EdCrux/micro-reddit-rails-models/issues
 [linkedin-shield2]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url2]: https://www.linkedin.com/in/edcrux/
 [product-screenshot]: logo.png
-[product-example]: micro-reddit .jpg
+[product-example]: micro-reddit.jpg
 
