@@ -34,7 +34,7 @@
 
 ## About The Project
 <small>(Click on the image to play with the code! See instructions in [Usage](#usage))</small>
-[![Product Name Screen Shot][product-screenshot]](https://gitpod.io/github.com/EdCrux/micro-reddit-rails-models/tree/feature)
+[![Product Name Screen Shot][product-screenshot]](https://gitpod.io/github.com/EdCrux/micro-reddit-rails-models)
 
 In this project we developed a simplified data-model version of reddit that includes the following models:
 * User model that validates the presence of password and a user name
@@ -43,7 +43,7 @@ In this project we developed a simplified data-model version of reddit that incl
 * If you click on the link provided you can test the validations and create your own users, posts and comments
 
 Here is the diagram to represent the relationships of the  models:
-[![Product Name Screen Shot][product-example]](https://gitpod.io/github.com/EdCrux/micro-reddit-rails-models/tree/feature)
+[![Product Name Screen Shot][product-example]](https://gitpod.io/github.com/EdCrux/micro-reddit-rails-models)
 
 ### Built With
 The project was developed using the following technologies:
